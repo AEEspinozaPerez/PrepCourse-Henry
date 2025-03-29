@@ -1,2 +1,2 @@
-# PrepCourse-Henry
-Este es un repositorio de prueba, para el prepCourse de Henry
+ALAN EDUARDO ESPINOZA PEREZ
+Este proyecto es un ejemplo de como crear un repositorio desde GitHUB y clonarlo
